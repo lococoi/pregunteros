@@ -7,13 +7,9 @@ may do so by submitting a request via email.
 
 How to Request Account Deletion
 
-Send an email to:
+Send an email to: [lococoi@proton.me](mailto:lococoi@proton.me)
 
-[lococoi@proton.me](mailto:lococoi@proton.me)
-
-Subject line:
-
-# Account Deletion Request – Pregunteros
+Subject line: Account Deletion Request – Pregunteros
 
 The request must be sent from the same email address associated with
 your Pregunteros account.
