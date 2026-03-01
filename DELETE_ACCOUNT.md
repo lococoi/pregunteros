@@ -9,7 +9,7 @@ How to Request Account Deletion
 
 Send an email to:
 
-# [lococoi@proton.me](mailto:lococoi@proton.me)
+[lococoi@proton.me](mailto:lococoi@proton.me)
 
 Subject line:
 
